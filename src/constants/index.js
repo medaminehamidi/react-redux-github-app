@@ -1,0 +1,3 @@
+export const HANDLE_INPUT_CHANGE='HANDLE_INPUT_CHANGE'
+export const LOADING='LOADING'
+export const GET_DATA='GET_DATA'
